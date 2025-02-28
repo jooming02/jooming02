@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/software-developer-typographic-header-idea-programming-coding-system-development-digital-technology-software-developing-company-writing-code-isolated-vector-illustration_613284-1446.jpg)](https://github.com/jooming02)
 <h1 align="center">Hi 👋, I'm Lau Joo Ming</h1>
-<h3 align="center">A passionate Frontend Engineer (React)</h3>
+<h3 align="center">A passionate Frontend Engineer</h3>
 
 - 🔭 I’m currently looking for Frontend Engineer jobs (preferably React)
 
