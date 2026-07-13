@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Lau%20Joo%20Ming&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:7C3AED&height=200&section=header&text=Lau%20Joo%20Ming&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://portfolio-laujooming.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=+Frontend+Developer+%40+Tencent;+React+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;+Exploring+AI+Agents+%2B+MCP+%2B+Prompt+Engineering;+Transitioning+into+Full-Stack+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=+Frontend+Developer+%40+Tencent;+React+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;+Exploring+AI+Agents+%2B+MCP+%2B+Prompt+Engineering;+Transitioning+into+Full-Stack+Engineering" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://portfolio-laujooming.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4C1D95)](https://portfolio-laujooming.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
 [![Email](https://img.shields.io/badge/-Email-FCA5A5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C)](mailto:laujm02@hotmail.com)
 [![Open to Work](https://img.shields.io/badge/🟢_OPEN-TO_WORK-4ADE80?style=for-the-badge&logoColor=white&labelColor=15803D)](https://portfolio-laujooming.vercel.app/)
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Readme Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=ffffff&quote_color=2563EB&author_color=7C3AED&accent_color=7C3AED&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
+[![Readme Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=ffffff&quote_color=7C3AED&author_color=4C1D95&accent_color=4C1D95&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
 </div>
 
@@ -37,7 +37,7 @@
 - Building with **AI Agents, Model Context Protocol (MCP), and prompt engineering** as part of daily workflows
 - Actively growing toward **full-stack / software engineering** roles, finance industry preferred
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### Currently
 
@@ -58,7 +58,7 @@ Deepening backend and cloud fundamentals (Azure DevOps, CI/CD, .NET) to round ou
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### Featured Project
 
@@ -72,7 +72,7 @@ MERN-stack mobile health monitoring system that tracks body test data and suppor
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -92,22 +92,22 @@ MERN-stack mobile health monitoring system that tracks body test data and suppor
 
 **AI Engineering**
 <br>
-<img src="https://img.shields.io/badge/AI_Agents-412991?style=flat-square&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-6E56CF?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-7C3AED?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-7C3AED?style=flat-square&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:7C3AED&height=3&section=header" width="100%"/>
 
 <div align="center">
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://portfolio-laujooming.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4C1D95)](https://portfolio-laujooming.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
 [![Email](https://img.shields.io/badge/-Email-FCA5A5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C)](mailto:laujm02@hotmail.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:2563EB&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:4C1D95&height=100&section=footer" width="100%"/>
