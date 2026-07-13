@@ -29,7 +29,7 @@
 - Building with **AI Agents, Model Context Protocol (MCP), and prompt engineering** as part of daily workflows
 - Actively growing toward **full-stack / software engineering** roles, finance industry preferred
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### 🚀 Currently
 
@@ -50,7 +50,7 @@ Deepening backend and cloud fundamentals (Azure DevOps, CI/CD, .NET) to round ou
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### Featured Project
 
@@ -64,7 +64,7 @@ MERN-stack mobile health monitoring system that tracks body test data and suppor
 <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
 
 ### 🛠️ Tech Stack
 
@@ -90,7 +90,7 @@ MERN-stack mobile health monitoring system that tracks body test data and suppor
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
 
 <div align="center">
 
