@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-laujooming.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laujm02@hotmail.com)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-2563EB?style=for-the-badge&logo=briefcase&logoColor=white)](https://portfolio-laujooming.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://portfolio-laujooming.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
+[![Email](https://img.shields.io/badge/-Email-FCA5A5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C)](mailto:laujm02@hotmail.com)
+[![Open to Work](https://img.shields.io/badge/🟢_OPEN-TO_WORK-4ADE80?style=for-the-badge&logoColor=white&labelColor=15803D)](https://portfolio-laujooming.vercel.app/)
 
 </div>
 
@@ -32,14 +32,14 @@
 ### About Me
 
 - First Class Honours in Computer Science, Asia Pacific University (APU)
-- Software Engineer at **Tencent**, building enterprise analytics dashboards on the DataBrain platform
+- Frontend Engineer at **Tencent**, building enterprise analytics dashboards on the DataBrain platform
 - Full-stack across **React / TypeScript** on the frontend and **.NET / SQL Server** on the backend
 - Building with **AI Agents, Model Context Protocol (MCP), and prompt engineering** as part of daily workflows
 - Actively growing toward **full-stack / software engineering** roles, finance industry preferred
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&section=header" width="100%"/>
 
-### 🚀 Currently
+### Currently
 
 <table>
 <tr>
@@ -104,9 +104,9 @@ MERN-stack mobile health monitoring system that tracks body test data and suppor
 
 ### 📫 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-laujooming.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laujm02@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://portfolio-laujooming.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/joo-ming-lau-974804235/)
+[![Email](https://img.shields.io/badge/-Email-FCA5A5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B91C1C)](mailto:laujm02@hotmail.com)
 
 </div>
 
