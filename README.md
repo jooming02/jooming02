@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=Lau%20Joo%20Ming&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI-Assisted%20Engineering&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://portfolio-laujooming.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=+Building+enterprise+analytics+dashboards+%40+Tencent;+React+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;+Exploring+AI+Agents+%2B+MCP+%2B+Prompt+Engineering;+Transitioning+into+Full-Stack+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=+Frontend+Developer+%40+Tencent;+React+%2B+TypeScript+%2B+.NET+%2B+SQL+Server;+Exploring+AI+Agents+%2B+MCP+%2B+Prompt+Engineering;+Transitioning+into+Full-Stack+Engineering" alt="Typing SVG" />
 </a>
 
 </div>
