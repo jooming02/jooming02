@@ -19,6 +19,14 @@
 
 </div>
 
+<div align="center">
+
+[![Readme Quotes](https://readme-daily-quotes.vercel.app/api?category=programming&bg_color=ffffff&quote_color=2563EB&author_color=7C3AED&accent_color=7C3AED&border_width=0)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+</div>
+
+<br>
+
 ---
 
 ### About Me
